@@ -1,2 +1,2 @@
 # Transfer-Learning
-Transfer learning with MobileNet
+Transfer learning with MobileNet_V3_Large
